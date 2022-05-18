@@ -5,6 +5,9 @@
   "scripts": {
     "test": "vitest"
   },
+  "stackblitz": {
+    "startCommand": "npm test"
+  },
   "license": "MIT",
   "devDependencies": {
     "vitest": "^0.12.6"

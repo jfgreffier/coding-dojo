@@ -1,6 +1,8 @@
 # Coding Dojo
 Kata, randories and stuff
 
+https://stackblitz.com/fork/github/jfgreffier/coding-dojo?title=Coding%20Dojo
+
 ## Fizz Buzz
 https://kata-log.rocks/fizz-buzz-kata
 
