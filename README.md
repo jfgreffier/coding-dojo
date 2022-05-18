@@ -10,3 +10,8 @@ https://kata-log.rocks/fizz-buzz-kata
 - For multiples of three return `Fizz` instead of the number
 - For the multiples of five return `Buzz` instead of the number
 - For numbers which are multiples of both three and five return `FizzBuzz` instead of the number
+
+## Roman numerals
+https://kata-log.rocks/roman-numerals-kata
+
+Write a function that takes a number and converts it to the according string representation.
