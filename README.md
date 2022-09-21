@@ -1,4 +1,7 @@
 # Coding Dojo
+
+[![Open in StackBlitz](https://img.shields.io/badge/StackBlitz-1269D3?logo=stackblitz)](https://stackblitz.com/fork/github/jfgreffier/coding-dojo?title=Coding%20Dojo)
+
 Kata, randories and stuff
 
 https://stackblitz.com/fork/github/jfgreffier/coding-dojo?title=Coding%20Dojo
