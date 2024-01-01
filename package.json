@@ -10,6 +10,6 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "vitest": "^0.34.3"
+    "vitest": "^1.1.1"
   }
 }
