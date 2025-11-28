@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
-import { fizzBuzz } from './fizzbuzz';
+import { renameMe } from './source';
 
-describe('FizzBuzz', () => {
+describe('renameMe', () => {
   it('should be true', () => {
     expect(true).toBe(true);
   });
